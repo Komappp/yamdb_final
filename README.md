@@ -1,4 +1,4 @@
-![Actions Status](https://github.com/Komappp/yamdb_final/actions/yamdb_workflow.yml/badge.svg)
+![Actions Status](https://github.com/Komappp/yamdb_final/actions/Django-app workflow/badge.svg)
 # Проект YaMDb
 
 Проект YaMDb собирает отзывы (Review) пользователей на произведения. 

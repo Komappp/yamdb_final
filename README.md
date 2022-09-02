@@ -1,4 +1,5 @@
-https://github.com/Komappp/yamdb_final/.github/workflows/yamdb_workflow.yml/badge.svg
+![example workflow]https://github.com/Komappp/yamdb_final/.github/workflows/yamdb_workflow.yml/badge.svg
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 # Проект YaMDb
 
 Проект YaMDb собирает отзывы (Review) пользователей на произведения. 

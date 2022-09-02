@@ -1,4 +1,4 @@
-![Actions Status](https://github.com/Komappp/yamdb_final/actions/last_commit/badge.svg)
+![Actions Status](https://github.com/komappp/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?event=push)
 # Проект YaMDb
 
 Проект YaMDb собирает отзывы (Review) пользователей на произведения. 

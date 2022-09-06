@@ -7,9 +7,9 @@ services:
     volumes:
       - /var/lib/postgresql/data/
     env_file:
-      - ./.env
+      - .env
   web:
-    build: ../api_yamdb
+    image: komappp/infra:latest
     restart: always
     volumes:
       - static_value:/app/static/
